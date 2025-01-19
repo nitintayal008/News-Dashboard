@@ -1,0 +1,30 @@
+{
+    "name": "news-payout-dashboard",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start"
+    },
+    "dependencies": {
+        "@google-cloud/local-auth": "^3.0.1",
+        "@react-oauth/google": "^0.12.1",
+        "@reduxjs/toolkit": "latest",
+        "autoprefixer": "latest",
+        "chart.js": "latest",
+        "gapi-script": "^1.2.0",
+        "googleapis": "^144.0.0",
+        "jspdf": "latest",
+        "jspdf-autotable": "latest",
+        "jwt-decode": "^4.0.0",
+        "next": "latest",
+        "next-auth": "latest",
+        "postcss": "latest",
+        "react": "latest",
+        "react-chartjs-2": "latest",
+        "react-dom": "latest",
+        "react-redux": "latest",
+        "tailwindcss": "latest"
+    }
+}
